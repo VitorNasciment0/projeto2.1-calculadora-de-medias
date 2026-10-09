@@ -14,4 +14,4 @@ Calculadora para notas e atividades escolares.
 HTML, CSS e JavaScript
 
 ## Como rodar
-Abra o `index.html` no navegador.
+Acesse a demo acima, ou baixe o projeto e abra o `index.html` no navegador.
